@@ -172,7 +172,7 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   fact: {
-    fontSize: 16,
+    fontSize: 17,
     textAlign: "center",
     fontWeight: "bold",
   },
